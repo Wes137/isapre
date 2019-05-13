@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10-05-2019, 12:48:57
+    Author     : 18819816-3
+*/
+table{
+    margin: 0 auto;
+    padding: 0;
+    border-collapse: collapse;
+    font-family: Calibri, Myriad;
+}
+caption{
+    padding-top: 1em;
+    font-size: large;
+}
+th{
+    background: #FFC107;
+}
+td, td{
+    border: 1px solid #38393d;
+    padding: 1.2em;
+}

@@ -1,0 +1,31 @@
+form{
+    margin: 0 auto;
+    width: 400px;
+    border: 1px solid #CCC;
+    padding: 1em;
+    margin-top: 7em;
+    text-align: center;
+}
+label {
+    display: inline-block;
+    width: 90px;
+    text-align: left;
+}
+input{
+    font: 1em sans-serif;
+    width: 200px;
+    border: 1px solid #999;
+    display: inline-block;
+    margin-top: 1em;
+}
+.ingresar{
+    margin-top: 1em;
+    display: inline-block;
+    margin-left: 230px;
+}
+input:focus, button:focus {   
+    border-color: #000;
+}
+[placeholder]{
+    font-size: small;
+}
